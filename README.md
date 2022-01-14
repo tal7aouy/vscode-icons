@@ -18,13 +18,16 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/tal7aouy.icons.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
 </p>
 
+<hr>
+<img src="video.gif"/>
+
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
 1. Search for icons
 1. Click Install
 1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > File Icon Theme ＞ VSCode Icons
+1. Select the Manage Cog (bottom left) > File Icon Theme ＞ Icons
 1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
 ## How to use
