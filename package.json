@@ -1,0 +1,53 @@
+{
+  "name": "icons",
+  "displayName": "Icons",
+  "description": "Icons for Visual Studio Code.",
+  "version": "1.0.1",
+  "publisher": "tal7aouy",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "scripts": {
+    "build": "vsce package"
+  },
+  "categories": [
+    "Other",
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "icons",
+        "label": "Icons",
+        "path": "./icons.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#45403d",
+    "theme": "dark"
+  },
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "others"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tal7aouy/vscode-icons.git"
+  },
+  "author": {
+    "email": "talhaouycoding@gmail.com",
+    "name": "Mhammed Talhaouy"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tal7aouy/vscode-icons/issues"
+  },
+  "homepage": "https://github.com/tal7aouy/vscode-icons#readme",
+  "devDependencies": {
+    "vsce": "^2.6.3"
+  }
+}
