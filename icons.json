@@ -40,19 +40,85 @@
     "_fd_src_open": {
       "iconPath": "./icons/folder-src-outline.svg"
     },
+    "_fd_php": {
+      "iconPath": "./icons/folder-php.svg"
+    },
+    "_fd_php_open": {
+      "iconPath": "./icons/folder-php-outline.svg"
+    },
+    "_fd_package": {
+      "iconPath": "./icons/folder-package.svg"
+    },
+    "_fd_package_open": {
+      "iconPath": "./icons/folder-package-outline.svg"
+    },
+    "_fd_python": {
+      "iconPath": "./icons/folder-python.svg"
+    },
+    "_fd_python_open": {
+      "iconPath": "./icons/folder-python-outline.svg"
+    },
+    "_fd_project": {
+      "iconPath": "./icons/folder-project.svg"
+    },
+    "_fd_project_open": {
+      "iconPath": "./icons/folder-project-outline.svg"
+    },
+    "_fd_helper": {
+      "iconPath": "./icons/folder-helper.svg"
+    },
+    "_fd_helper_open": {
+      "iconPath": "./icons/folder-helper-outline.svg"
+    },
+    "_fd_event": {
+      "iconPath": "./icons/folder-event.svg"
+    },
+    "_fd_event_open": {
+      "iconPath": "./icons/folder-event-outline.svg"
+    },
+    "_fd_docs": {
+      "iconPath": "./icons/folder-docs.svg"
+    },
+    "_fd_docs_open": {
+      "iconPath": "./icons/folder-docs-outline.svg"
+    },
+    "_fd_contract": {
+      "iconPath": "./icons/folder-contract.svg"
+    },
+    "_fd_contract_open": {
+      "iconPath": "./icons/folder-contract-outline.svg"
+    },
+    "_fd_debug": {
+      "iconPath": "./icons/folder-debug.svg"
+    },
+    "_fd_debug_open": {
+      "iconPath": "./icons/folder-debug-outline.svg"
+    },
+    "_fd_core": {
+      "iconPath": "./icons/folder-core.svg"
+    },
+    "_fd_core_open": {
+      "iconPath": "./icons/folder-core-outline.svg"
+    },
+    "_fd_log": {
+      "iconPath": "./icons/folder-log.svg"
+    },
+    "_fd_log_open": {
+      "iconPath": "./icons/folder-log-outline.svg"
+    },
     "_fd_i18n": {
       "iconPath": "./icons/folder-i18n.svg"
     },
     "_fd_i18n_open": {
       "iconPath": "./icons/folder-i18n-outline.svg"
     },
-     "_fd_class": {
+    "_fd_class": {
       "iconPath": "./icons/folder-class.svg"
     },
     "_fd_class_open": {
       "iconPath": "./icons/folder-class-outline.svg"
     },
-     "_fd_middleware": {
+    "_fd_middleware": {
       "iconPath": "./icons/folder-middleware.svg"
     },
     "_fd_middleware_open": {
@@ -64,7 +130,7 @@
     "_fd_markdown_open": {
       "iconPath": "./icons/folder-markdown-outline.svg"
     },
-     "_fd_resource": {
+    "_fd_resource": {
       "iconPath": "./icons/folder-resource.svg"
     },
     "_fd_resource_open": {
@@ -226,6 +292,12 @@
     "_fd_github_open": {
       "iconPath": "./icons/folder-github-outline.svg"
     },
+    "_fd_gitlab": {
+      "iconPath": "./icons/folder-gitlab.svg"
+    },
+    "_fd_gitlab_open": {
+      "iconPath": "./icons/folder-gitlab-outline.svg"
+    },
     "_fd_tests": {
       "iconPath": "./icons/folder-tests.svg"
     },
@@ -277,6 +349,9 @@
     },
     "_f_blade": {
       "iconPath": "./icons/blade.svg"
+    },
+    "_f_robot": {
+      "iconPath": "./icons/robot.svg"
     },
     "_f_bower": {
       "iconPath": "./icons/bower.svg"
@@ -454,6 +529,12 @@
     },
     "_f_markdown": {
       "iconPath": "./icons/markdown.svg"
+    },
+    "_f_changelog": {
+      "iconPath": "./icons/changelog.svg"
+    },
+    "_f_readme": {
+      "iconPath": "./icons/readme.svg"
     },
     "_f_matlab": {
       "iconPath": "./icons/matlab.svg"
@@ -850,15 +931,35 @@
     "sass": "_fd_sass",
     "scss": "_fd_sass",
     "src": "_fd_src",
+    "php": "_fd_php",
+    "package": "_fd_package",
+    "packages": "_fd_package",
+    "python": "_fd_python",
+    "project": "_fd_project",
+    "projects": "_fd_project",
+    "helper": "_fd_helper",
+    "helpers": "_fd_helper",
+    "event": "_fd_event",
+    "events": "_fd_event",
+    "doc": "_fd_docs",
+    "docs": "_fd_docs",
+    "document": "_fd_docs",
+    "documents": "_fd_docs",
+    "debug": "_fd_debug",
+    "core": "_fd_core",
+    "contract": "_fd_contract",
+    "contracts": "_fd_contract",
+    "log": "_fd_log",
+    "logs": "_fd_log",
     "lang": "_fd_i18n",
     "languages": "_fd_i18n",
     "language": "_fd_i18n",
     "i18n": "_fd_i18n",
-    "assets":"_fd_resource",
-    "resources":"_fd_resource",
-    "middleware":"_fd_middleware",
-    "markdown":"_fd_markdown",
-     "md":"_fd_markdown",
+    "assets": "_fd_resource",
+    "resources": "_fd_resource",
+    "middleware": "_fd_middleware",
+    "markdown": "_fd_markdown",
+    "md": "_fd_markdown",
     "audio": "_fd_audio",
     "audios": "_fd_audio",
     "video": "_fd_video",
@@ -870,9 +971,9 @@
     "lib": "_fd_lib",
     "libs": "_fd_lib",
     "library": "_fd_lib",
-    "vendor":"_fd_lib",
-    "classes":"_fd_class",
-    "models":"_fd_class",
+    "vendor": "_fd_lib",
+    "classes": "_fd_class",
+    "models": "_fd_class",
     "less": "_fd_less",
     "layout": "_fd_layout",
     "layouts": "_fd_layout",
@@ -907,6 +1008,7 @@
     "img": "_fd_images",
     ".git": "_fd_git",
     ".github": "_fd_github",
+    ".gitlab": "_fd_gitlab",
     "test": "_fd_tests",
     "tests": "_fd_tests",
     "mocks": "_fd_tests",
@@ -934,15 +1036,34 @@
     "sass": "_f_sass_open",
     "scss": "_f_sass_open",
     "src": "_fd_src_open",
+    "helper": "_fd_helper_open",
+    "helpers": "_fd_helper_open",
+    "package": "_fd_package_open",
+    "packages": "_fd_package_open",
+    "python": "_fd_python_open",
+    "project": "_fd_project_open",
+    "projects": "_fd_project_open",
+    "event": "_fd_event_open",
+    "events": "_fd_event_open",
+    "doc": "_fd_docs_open",
+    "docs": "_fd_docs_open",
+    "document": "_fd_docs_open",
+    "documents": "_fd_docs_open",
+    "debug": "_fd_debug_open",
+    "core": "_fd_core_open",
+    "contract": "_fd_contract_open",
+    "contracts": "_fd_contract_open",
+    "log": "_fd_log_open",
+    "logs": "_fd_log_open",
     "lang": "_fd_i18n_open",
     "languages": "_fd_i18n_open",
     "language": "_fd_i18n_open",
     "i18n": "_fd_i18n_open",
-    "assets":"_fd_resource_open",
-    "resources":"_fd_resource_open",
-    "middleware":"_fd_middleware_open",
-    "markdown":"_fd_markdown_open",
-    "md":"_fd_markdown_open",
+    "assets": "_fd_resource_open",
+    "resources": "_fd_resource_open",
+    "middleware": "_fd_middleware_open",
+    "markdown": "_fd_markdown_open",
+    "md": "_fd_markdown_open",
     "audio": "_fd_audio_open",
     "audios": "_fd_audio_open",
     "video": "_fd_video_open",
@@ -954,9 +1075,9 @@
     "lib": "_fd_lib_open",
     "libs": "_fd_lib_open",
     "library": "_fd_lib_open",
-    "vendor":"_fd_lib_open",
-    "classes":"_fd_class_open",
-    "models":"_fd_class_open",
+    "vendor": "_fd_lib_open",
+    "classes": "_fd_class_open",
+    "models": "_fd_class_open",
     "less": "_fd_less_open",
     "layout": "_fd_layout_open",
     "layouts": "_fd_layout_open",
@@ -991,6 +1112,7 @@
     "icons": "_fd_images_open",
     ".git": "_fd_git_open",
     ".github": "_fd_github_open",
+    ".gitlab": "_fd_gitlab_open",
     "test": "_fd_tests_open",
     "tests": "_fd_tests_open",
     "mocks": "_fd_tests_open",
@@ -1280,6 +1402,7 @@
     "yml": "_f_yaml",
     "yaml": "_f_yaml",
     "yarnclean": "_f_yarn",
+    "yarnrc": "_f_yarn",
     "zip": "_f_zip",
     "rar": "_f_zip",
     "7z": "_f_zip",
@@ -1443,7 +1566,7 @@
     "jinja": "_f_jinja",
     "jinja2": "_f_jinja",
     "vscodeignore": "_f_visualstudiocode",
-    "vsix":"_f_visualstudiocode",
+    "vsix": "_f_visualstudiocode",
     "editorconfig": "_f_editorconfig",
     "sequelizerc": "_f_sequelize",
     "npmrc": "_f_npm",
@@ -1496,6 +1619,10 @@
     "licence": "_f_key",
     "license.md": "_f_key",
     "licence.md": "_f_key",
+    "changelog.md": "_f_changelog",
+    "readme.md": "_f_readme",
+    "robot.txt": "_f_robot",
+    "robots.txt": "_f_robot",
     "mocha.opts": "_f_mocha",
     "moleculer.config.js": "_f_moleculer",
     "moleculer.config.json": "_f_moleculer",
@@ -1523,7 +1650,7 @@
     "webpack.js": "_f_webpack",
     "webpack.ts": "_f_webpack",
     "webpack.config.js": "_f_webpack",
-     "webpack.mix.js": "_f_webpack",
+    "webpack.mix.js": "_f_webpack",
     "webpack.config.ts": "_f_webpack",
     "webpack.dev.js": "_f_webpack",
     "webpack.dev.ts": "_f_webpack",
