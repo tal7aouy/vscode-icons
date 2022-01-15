@@ -40,6 +40,18 @@
     "_fd_src_open": {
       "iconPath": "./icons/folder-src-outline.svg"
     },
+    "_fd_api": {
+      "iconPath": "./icons/folder-api.svg"
+    },
+    "_fd_api_open": {
+      "iconPath": "./icons/folder-api-outline.svg"
+    },
+    "_fd_secure": {
+      "iconPath": "./icons/folder-secure.svg"
+    },
+    "_fd_secure_open": {
+      "iconPath": "./icons/folder-secure-outline.svg"
+    },
     "_fd_php": {
       "iconPath": "./icons/folder-php.svg"
     },
@@ -931,6 +943,12 @@
     "sass": "_fd_sass",
     "scss": "_fd_sass",
     "src": "_fd_src",
+    "api": "_fd_api",
+    "apis": "_fd_api",
+    "auth": "_fd_secure",
+    "authentication": "_fd_secure",
+    "secure": "_fd_secure",
+    "security": "_fd_secure",
     "php": "_fd_php",
     "package": "_fd_package",
     "packages": "_fd_package",
@@ -1043,6 +1061,12 @@
     "python": "_fd_python_open",
     "project": "_fd_project_open",
     "projects": "_fd_project_open",
+    "api": "_fd_api_open",
+    "apis": "_fd_api_open",
+    "auth": "_fd_secure_open",
+    "authentication": "_fd_secure_open",
+    "secure": "_fd_secure_open",
+    "security": "_fd_secure_open",
     "event": "_fd_event_open",
     "events": "_fd_event_open",
     "doc": "_fd_docs_open",
@@ -1584,6 +1608,7 @@
     "txt": "_f_notepad"
   },
   "fileNames": {
+    "artisan": "_f_blade",
     "androidmanifest.xml": "_f_android",
     "bower.json": "_f_bower",
     "brunch-config.js": "_f_brunch",
