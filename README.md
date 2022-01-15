@@ -1,4 +1,4 @@
-# VSCode Icons
+# Icons
 
 <h1 align="center">
   <br>
@@ -19,7 +19,7 @@
 </p>
 
 <hr>
-<img src="video.gif"/>
+<img align="center" src="video.gif"/>
 
 ## Installation
 
@@ -32,7 +32,7 @@
 
 ## How to use
 
-After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Icons`.
+After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `Icons`.
 
 ## Want more?
 
