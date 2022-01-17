@@ -40,6 +40,12 @@
     "_fd_src_open": {
       "iconPath": "./icons/folder-src-outline.svg"
     },
+    "_fd_svg": {
+      "iconPath": "./icons/folder-svg.svg"
+    },
+    "_fd_svg_open": {
+      "iconPath": "./icons/folder-svg-outline.svg"
+    },
     "_fd_api": {
       "iconPath": "./icons/folder-api.svg"
     },
@@ -464,8 +470,8 @@
     "_f_go": {
       "iconPath": "./icons/go.svg"
     },
-    "_f_gnu": {
-      "iconPath": "./icons/gnu.svg"
+    "_f_makefile": {
+      "iconPath": "./icons/makefile.svg"
     },
     "_f_gradle": {
       "iconPath": "./icons/gradle.svg"
@@ -688,6 +694,12 @@
     },
     "_f_typescript": {
       "iconPath": "./icons/typescript.svg"
+    },
+    "_f_typescript-def": {
+      "iconPath": "./icons/typescript-def.svg"
+    },
+    "_f_phpunit": {
+      "iconPath": "./icons/phpunit.svg"
     },
     "_f_url": {
       "iconPath": "./icons/url.svg"
@@ -943,6 +955,8 @@
     "sass": "_fd_sass",
     "scss": "_fd_sass",
     "src": "_fd_src",
+    "svg": "_fd_svg",
+    "svgs": "_fd_svg",
     "api": "_fd_api",
     "apis": "_fd_api",
     "auth": "_fd_secure",
@@ -1054,6 +1068,8 @@
     "sass": "_f_sass_open",
     "scss": "_f_sass_open",
     "src": "_fd_src_open",
+    "svg": "_fd_svg_open",
+    "svgs": "_fd_svg_open",
     "helper": "_fd_helper_open",
     "helpers": "_fd_helper_open",
     "package": "_fd_package_open",
@@ -1373,7 +1389,7 @@
     "makefile": "_f_settings",
     "rake": "_f_ruby",
     "rakefile": "_f_ruby",
-    "mk": "_f_gnu",
+    "mk": "_f_makefile",
     "config": "_f_settings",
     "bat": "_f_shell",
     "sh": "_f_shell",
@@ -1418,6 +1434,7 @@
     "todo": "_f_todo",
     "twig": "_f_twig",
     "ts": "_f_typescript",
+    "d.ts": "_f_typescript-def",
     "vue": "_f_vue",
     "xml": "_f_source",
     "axml": "_f_source",
@@ -1609,13 +1626,14 @@
   },
   "fileNames": {
     "artisan": "_f_blade",
+    "phpunit.xml": "_f_phpunit",
     "androidmanifest.xml": "_f_android",
     "bower.json": "_f_bower",
     "brunch-config.js": "_f_brunch",
     "brunch-config.ts": "_f_brunch",
     "brunch-config.coffee": "_f_brunch",
     "cmakelists.txt": "_f_cmake",
-    "makefile": "_f_gnu",
+    "makefile": "_f_makefile",
     "rakefile": "_f_ruby",
     "docker-compose.yml": "_f_docker",
     "dockerfile": "_f_docker",
