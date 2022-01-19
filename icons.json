@@ -40,6 +40,30 @@
     "_fd_src_open": {
       "iconPath": "./icons/folder-src-outline.svg"
     },
+    "_fd_command": {
+      "iconPath": "./icons/folder-command.svg"
+    },
+    "_fd_command_open": {
+      "iconPath": "./icons/folder-command-outline.svg"
+    },
+    "_fd_console": {
+      "iconPath": "./icons/folder-console.svg"
+    },
+    "_fd_console_open": {
+      "iconPath": "./icons/folder-console-outline.svg"
+    },
+    "_fd_serverless": {
+      "iconPath": "./icons/folder-serverless.svg"
+    },
+    "_fd_serverless_open": {
+      "iconPath": "./icons/folder-serverless-outline.svg"
+    },
+    "_fd_server": {
+      "iconPath": "./icons/folder-server.svg"
+    },
+    "_fd_server_open": {
+      "iconPath": "./icons/folder-server-outline.svg"
+    },
     "_fd_svg": {
       "iconPath": "./icons/folder-svg.svg"
     },
@@ -1010,7 +1034,15 @@
     "layout": "_fd_layout",
     "layouts": "_fd_layout",
     "controllers": "_fd_controller",
-    "providers": "_fd_controller",
+    "providers": "_fd_serverless",
+    "serverless": "_fd_serverless",
+    ".serverless": "_fd_serverless",
+    "command": "_fd_command",
+    "commands": "_fd_command",
+    "console": "_fd_console",
+    "consoles": "_fd_console",
+    "server": "_fd_server",
+    "servers": "_fd_server",
     "db": "_fd_database",
     "database": "_fd_database",
     "config": "_fd_config",
@@ -1026,6 +1058,8 @@
     "templates": "_fd_template",
     "error": "_fd_error",
     "errors": "_fd_error",
+    "exception": "_fd_error",
+    "exceptions": "_fd_error",
     "public": "_fd_public",
     "theme": "_fd_theme",
     "themes": "_fd_theme",
@@ -1123,7 +1157,15 @@
     "layouts": "_fd_layout_open",
     "config": "_fd_config_open",
     "settings": "_fd_config_open",
-    "providers": "_fd_controller_open",
+    "providers": "_fd_serverless_open",
+    "serverless": "_fd_serverless_open",
+    ".serverless": "_fd_serverless_open",
+    "command": "_fd_command_open",
+    "commands": "_fd_command_open",
+    "console": "_fd_console_open",
+    "consoles": "_fd_console_open",
+    "server": "_fd_server_open",
+    "servers": "_fd_server_open",
     "controllers": "_fd_controller_open",
     "db": "_fd_database_open",
     "database": "_fd_database_open",
