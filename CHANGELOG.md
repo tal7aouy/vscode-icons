@@ -6,7 +6,12 @@ first release
 
 add new icons
 
-# v1.0.3
+# v1.0.3 - v1.0.4
 
 - add artisan file
 - add secure and api folder
+
+# v1.0.5
+
+- add new Icons
+- add new folders
