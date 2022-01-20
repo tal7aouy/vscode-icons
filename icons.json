@@ -40,6 +40,30 @@
     "_fd_src_open": {
       "iconPath": "./icons/folder-src-outline.svg"
     },
+    "_fd_docker": {
+      "iconPath": "./icons/folder-docker.svg"
+    },
+    "_fd_docker_open": {
+      "iconPath": "./icons/folder-docker-outline.svg"
+    },
+    "_fd_download": {
+      "iconPath": "./icons/folder-download.svg"
+    },
+    "_fd_download_open": {
+      "iconPath": "./icons/folder-download-outline.svg"
+    },
+    "_fd_include": {
+      "iconPath": "./icons/folder-include.svg"
+    },
+    "_fd_include_open": {
+      "iconPath": "./icons/folder-include-outline.svg"
+    },
+    "_fd_plugin": {
+      "iconPath": "./icons/folder-plugin.svg"
+    },
+    "_fd_plugin_open": {
+      "iconPath": "./icons/folder-plugin-outline.svg"
+    },
     "_fd_command": {
       "iconPath": "./icons/folder-command.svg"
     },
@@ -979,6 +1003,12 @@
     "sass": "_fd_sass",
     "scss": "_fd_sass",
     "src": "_fd_src",
+    "docker":"_fd_docker",
+    ".docker":"_fd_docker",
+    "download":"_fd_download",
+    "downloads":"_fd_download",
+    "include":"_fd_include",
+    "includes":"_fd_include",
     "svg": "_fd_svg",
     "svgs": "_fd_svg",
     "api": "_fd_api",
@@ -1063,6 +1093,10 @@
     "public": "_fd_public",
     "theme": "_fd_theme",
     "themes": "_fd_theme",
+    "color": "_fd_theme",
+    "colors": "_fd_theme",
+    "plugin": "_fd_plugin",
+    "plugins": "_fd_plugin",
     "javascript": "_fd_javascript",
     "js": "_fd_javascript",
     "typescript": "_fd_typescript",
@@ -1102,6 +1136,12 @@
     "sass": "_f_sass_open",
     "scss": "_f_sass_open",
     "src": "_fd_src_open",
+    "docker":"_fd_docker_open",
+    ".docker":"_fd_docker_open",
+    "download":"_fd_download_open",
+    "downloads":"_fd_download_open",
+    "include":"_fd_include_open",
+    "includes":"_fd_include_open",
     "svg": "_fd_svg_open",
     "svgs": "_fd_svg_open",
     "helper": "_fd_helper_open",
@@ -1183,6 +1223,10 @@
     "public": "_fd_public_open",
     "theme": "_fd_theme_open",
     "themes": "_fd_theme_open",
+    "color": "_fd_theme_open",
+    "colors": "_fd_theme_open",
+    "plugin": "_fd_plugin_open",
+    "plugins": "_fd_plugin_open",
     "javascript": "_fd_javascript_open",
     "js": "_fd_javascript_open",
     "typescript": "_fd_typescript_open",
@@ -1457,15 +1501,15 @@
     "stylus": "_f_stylus",
     "svg": "_f_svg",
     "swift": "_f_swift",
-    "test.js": "_f_tests",
-    "test.jsx": "_f_tests",
-    "test.mjs": "_f_tests",
+    "test.js": "_f_testsjs",
+    "test.jsx": "_f_testsjs",
+    "test.mjs": "_f_testsjs",
     "test.ts": "_f_tests",
     "test.tsx": "_f_tests",
-    "spec.js": "_f_tests",
+    "spec.js": "_f_testsjs",
     "spec.ts": "_f_tests",
     "spec.tsx": "_f_tests",
-    "unit.js": "_f_tests",
+    "unit.js": "_f_testsjs",
     "unit.ts": "_f_tests",
     "unit.tsx": "_f_tests",
     "tcl": "_f_tcl",
