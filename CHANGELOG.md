@@ -16,6 +16,6 @@ add new icons
 - add new Icons
 - add new folders
 
-# v1.0.6
+# v1.0.7
 
 - add & update new folder
