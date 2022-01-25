@@ -23,3 +23,7 @@ add new icons
 # v2.0.0
 
 - generate icons theme using typescript
+
+# 2.0.1
+
+- add .env.example & artisan file
