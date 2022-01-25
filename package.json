@@ -2,22 +2,21 @@
   "name": "icons",
   "displayName": "Icons",
   "description": "Icons for Visual Studio Code.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "publisher": "tal7aouy",
   "main": "./out/extension.js",
   "engines": {
     "vscode": "^1.63.0"
   },
   "activationEvents": [
-    "*"
+    "onIdentity:identity"
   ],
   "scripts": {
-    "build": "tsc && node ./out/extension.js",
-    "dev": "vsce package",
+    "compile": "tsc && node ./out/extension.js",
+    "build": "vsce package",
     "test": "jest",
     "test:coverage": "jest --coverage",
-    "lint": "eslint . --ext .ts --fix",
-    "prepublishOnly": "npm run build"
+    "lint": "eslint . --ext .ts --fix"
   },
   "categories": [
     "Other",
