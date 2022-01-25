@@ -19,3 +19,7 @@ add new icons
 # v1.0.7
 
 - add & update new folder
+
+# v2.0.0
+
+- generate icons theme using typescript
