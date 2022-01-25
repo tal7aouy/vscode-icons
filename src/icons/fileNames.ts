@@ -3,6 +3,8 @@ import { webpack } from "../defaults/bundler";
 
 export default {
   ...make(webpack, "_f_webpack"),
+  artisan: "_f_blade",
+
   ".angular-cli.json": "_f_angular",
   "angular-cli.json": "_f_angular",
   "angular.json": "_f_angular",
@@ -522,6 +524,7 @@ export default {
   "vite.config.ts": "_f_vite",
   ".nvmrc": "_f_nvm",
   ".env": "_f_env",
+  ".env.example": "_f_env",
   ".env.staging": "_f_env",
   ".env.preprod": "_f_env",
   ".env.production": "_f_env",
