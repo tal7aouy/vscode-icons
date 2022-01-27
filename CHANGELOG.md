@@ -27,3 +27,7 @@ add new icons
 # 2.0.1
 
 - add .env.example & artisan file
+
+# 2.0.2
+
+- add new icons and remove duplicated like images icon and fonts
