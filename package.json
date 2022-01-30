@@ -2,7 +2,7 @@
   "name": "icons",
   "displayName": "Icons",
   "description": "Icons for Visual Studio Code.",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "publisher": "tal7aouy",
   "main": "./out/extension.js",
   "engines": {
