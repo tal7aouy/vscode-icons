@@ -31,3 +31,5 @@ add new icons
 # 2.0.2
 
 - add new icons and remove duplicated like images icon and fonts
+# 2.1.0
+- add folders to icon extension.
