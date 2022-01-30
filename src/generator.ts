@@ -1,6 +1,8 @@
 import fileExtensions from "./icons/fileExtensions";
 import fileNames from "./icons/fileNames";
 import languageIds from "./icons/languageIds";
+import folderNames from "./icons/folderNames";
+import folderNamesExpanded from "./icons/folderNamesExpanded";
 export default {
   file: "_file",
   folder: "_folder",
@@ -10,4 +12,6 @@ export default {
   fileExtensions,
   fileNames,
   languageIds,
+  folderNames,
+  folderNamesExpanded,
 };
