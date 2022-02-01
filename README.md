@@ -18,8 +18,13 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/tal7aouy.icons.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
 </p>
 
-<hr>
-<img align="center" src="video.gif"/>
+## File icons
+
+<img src="./images/fileIcons.png" alt="file icons">
+
+### Folder icons
+
+<img src="./images/folderIcons.png" alt="folder icons">
 
 ## Installation
 
@@ -46,4 +51,4 @@ I can add more icons if you need, [open a **new** issue](https://github.com/tal7
 
 - [Twitter](https://twitter.com/ta7aouy)
 - [GitHub](https://github.com/ta7aouy)
-- [Site](https://tal7aouy.netlify.app)
+- [Home Page](https://tal7aouy.netlify.app)
