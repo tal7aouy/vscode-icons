@@ -332,8 +332,6 @@ export default {
   script: "_fd_script_open",
   scripts: "_fd_script_open",
   server: "_fd_server_open",
-  service: "_fd_services_open",
-  services: "_fd_services_open",
   src: "_fd_src_open",
   source: "_fd_src_open",
   sources: "_fd_src_open",
