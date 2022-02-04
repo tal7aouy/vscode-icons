@@ -36,7 +36,7 @@ add new icons
 
 - add folders to icon extension.
 
-# 2.2.0
+# 2.2.0 - 2.2.1
 
 - add new folders.
 - update readme
