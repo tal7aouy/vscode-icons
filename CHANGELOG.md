@@ -40,3 +40,7 @@ add new icons
 
 - add new folders.
 - update readme
+
+# 2.3.0
+
+- add new folders icon
