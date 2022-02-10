@@ -44,3 +44,7 @@ add new icons
 # 2.3.0
 
 - add new folders icon
+
+# 2.4.0
+
+- add docker file
