@@ -1,5 +1,3 @@
-# Icons
-
 <h1 align="center">
   <br>
     <img src="icon.png" alt="logo" width="200">
@@ -29,10 +27,10 @@
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-1. Search for icons
+1. Search for **icons**
 1. Click Install
 1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > File Icon Theme ＞ Icons
+1. Select the Manage Cog (bottom left) > File Icon Theme ＞ **Icons**
 1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
 ## How to use
@@ -46,6 +44,11 @@ I can add more icons if you need, [open a **new** issue](https://github.com/tal7
 ## Changelog
 
 [See full changelog here](https://github.com/tal7aouy/vscode-icons/blob/master/CHANGELOG.md)
+
+## Icon sources
+
+- [Material Design Icons](https://materialdesignicons.com/)
+- official icons
 
 ## Follow me
 
