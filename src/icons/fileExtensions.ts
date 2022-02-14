@@ -287,6 +287,7 @@ export default {
   svg: "_f_svg_",
   tcl: "_f_tcl",
   exp: "_f_tcl",
+  tf: "_f_terraform",
   tfstate: "_f_terraform",
   tfvars: "_f_terraform",
   tst: "_f_test",
