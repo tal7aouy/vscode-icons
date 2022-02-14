@@ -288,6 +288,7 @@ export default {
   tcl: "_f_tcl",
   exp: "_f_tcl",
   tfstate: "_f_terraform",
+  tfvars: "_f_terraform",
   tst: "_f_test",
   "test.js": "_f_testjs",
   "test.jsx": "_f_testjs",

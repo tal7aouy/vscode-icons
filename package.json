@@ -12,8 +12,8 @@
     "onIdentity:identity"
   ],
   "scripts": {
-    "compile": "tsc && node ./out/extension.js",
-    "build": "vsce package",
+    "build": "tsc && node ./out/extension.js",
+    "package": "vsce package",
     "test": "jest",
     "test:coverage": "jest --coverage",
     "lint": "eslint . --ext .ts --fix"
