@@ -14,8 +14,6 @@
   "scripts": {
     "build": "tsc && node ./out/extension.js",
     "package": "vsce package",
-    "test": "jest",
-    "test:coverage": "jest --coverage",
     "lint": "eslint . --ext .ts --fix"
   },
   "categories": [
