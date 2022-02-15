@@ -48,3 +48,13 @@ add new icons
 # 2.4.0
 
 - add docker file
+
+# 2.5.0
+
+- merge pull request terraform extension (tf)
+- add new folder icons
+
+# 2.5.1
+
+- remove scss
+- change `routers` to `router`
