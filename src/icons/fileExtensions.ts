@@ -424,4 +424,5 @@ export default {
   pri: "_f_qt",
   user: "_f_user",
   ui: "_f_ui",
+  vim: "_f_vim",
 };

@@ -419,6 +419,7 @@ export default {
   source: "_fd_folder_src_open",
   sources: "_fd_folder_src_open",
   sso: "_fd_folder_sso_open",
+  store: "_fd_folder_store_open",
   temp: "_fd_folder_temp_open",
   ".temp": "_fd_folder_temp_open",
   tmp: "_fd_folder_temp_open",

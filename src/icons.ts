@@ -256,6 +256,8 @@ const icons: Icon = {
   ...folderIcon("folder_hook_open"),
   ...folderIcon("folder_prisma"),
   ...folderIcon("folder_prisma_open"),
+  ...folderIcon("folder_store"),
+  ...folderIcon("folder_store_open"),
   ...icon("firebase_"),
   ...icon("terraform"),
   ...icon("ember"),

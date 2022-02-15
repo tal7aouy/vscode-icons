@@ -420,6 +420,7 @@ export default {
   source: "_fd_folder_src",
   sources: "_fd_folder_src",
   sso: "_fd_folder_sso",
+  store: "_fd_folder_store",
   temp: "_fd_folder_temp",
   ".temp": "_fd_folder_temp",
   tmp: "_fd_folder_temp",
