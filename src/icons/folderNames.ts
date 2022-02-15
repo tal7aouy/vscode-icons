@@ -402,7 +402,7 @@ export default {
   routes: "_fd_folder_route",
   _route: "_fd_folder_route",
   _routes: "_fd_folder_route",
-  routers: "_fd_folder_route",
+  router: "_fd_folder_route",
   sass: "_fd_folder_sass",
   scss: "_fd_folder_sass",
   _sass: "_fd_folder_sass",

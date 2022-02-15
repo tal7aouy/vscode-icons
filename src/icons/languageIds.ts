@@ -251,7 +251,7 @@ export default {
   scala: "_f_scala",
   scilab: "_f_scilab",
   vbscript: "_f_script",
-  scss: "_f_scss",
+  scss: "_f_sass",
   sdl: "_f_sdlang",
   shaderlab: "_f_shaderlab",
   shellscript: "_f_shell",

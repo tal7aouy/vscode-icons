@@ -279,7 +279,6 @@ const icons: Icon = {
   ...icon("vim"),
   ...icon("svelte_"),
   ...icon("sass_"),
-  ...icon("scss"),
   ...icon("less_"),
   ...icon("stylus_"),
   ...icon("postcssconfig"),

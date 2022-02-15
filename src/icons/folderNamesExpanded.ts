@@ -403,7 +403,7 @@ export default {
   routes: "_fd_folder_route_open",
   _route: "_fd_folder_route_open",
   _routes: "_fd_folder_route_open",
-  routers: "_fd_folder_route_open",
+  router: "_fd_folder_route_open",
   sass: "_fd_folder_sass_open",
   scss: "_fd_folder_sass_open",
   _sass: "_fd_folder_sass_open",

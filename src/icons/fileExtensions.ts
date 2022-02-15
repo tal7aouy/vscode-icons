@@ -264,7 +264,6 @@ export default {
   sls: "_f_saltstack",
   sass: "_f_sass_",
   azcli: "_f_azure_",
-  scssm: "_f_scss",
   unity: "_f_shaderlab",
   fish: "_f_shell",
   sketch: "_f_sketch",
