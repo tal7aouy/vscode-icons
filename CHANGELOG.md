@@ -64,3 +64,8 @@ add new icons
 - add vim extension
 - add store folder
 - add scss extension
+
+# 2.7.0
+
+- add new folders & files icons
+- add angular icons (service, pipe, component, guard)
