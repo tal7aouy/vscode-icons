@@ -263,6 +263,7 @@ export default {
   rproj: "_f_rproj",
   sls: "_f_saltstack",
   sass: "_f_sass_",
+  scss: "_f_sass_",
   azcli: "_f_azure_",
   unity: "_f_shaderlab",
   fish: "_f_shell",
