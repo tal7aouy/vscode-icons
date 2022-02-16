@@ -59,7 +59,8 @@ add new icons
 - remove scss
 - change `routers` to `router`
 
-# 2.6.0
+# 2.6.0 && 2.6.1
 
 - add vim extension
 - add store folder
+- add scss extension
