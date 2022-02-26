@@ -69,3 +69,7 @@ add new icons
 
 - add new folders & files icons
 - add angular icons (service, pipe, component, guard)
+
+# 3.0.0
+
+- add many amazing icons
