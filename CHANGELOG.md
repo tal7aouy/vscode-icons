@@ -73,3 +73,9 @@ add new icons
 # 3.0.0
 
 - add many amazing icons
+
+# 3.1.0
+
+- add new icons
+- fix yaml,yml extensions
+- fix .directory folder
