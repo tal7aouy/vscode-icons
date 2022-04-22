@@ -50,8 +50,12 @@ I can add more icons if you need, [open a **new** issue](https://github.com/tal7
 - [Material Design Icons](https://materialdesignicons.com/)
 - official icons
 
-## Follow me
+### Contributors
 
-- [Twitter](https://twitter.com/ta7aouy)
-- [GitHub](https://github.com/ta7aouy)
-- [Home Page](https://tal7aouy.netlify.app)
+This project exists thanks to all the people who contribute.
+
+[![](https://github.com/tal7aouy.png?size=50)](https://github.com/tal7aouy)
+[![](https://github.com/WillBeebe.png?size=50)](https://github.com/WillBeebe)
+<a href="https://github.com/tal7aouy/vscode-icons/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=tal7aouy/vscode-icons"/>
+</a>
