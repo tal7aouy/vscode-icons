@@ -79,3 +79,8 @@ add new icons
 - add new icons
 - fix yaml,yml extensions
 - fix .directory folder
+
+# 3.2.0
+
+- add storage icons
+- update & sort icons
