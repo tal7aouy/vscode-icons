@@ -1,6 +1,5 @@
 import fileExtensions from "./icons/fileExtensions";
 import fileNames from "./icons/fileNames";
-import languageIds from "./icons/languageIds";
 import folderNames from "./icons/folderNames";
 import folderNamesExpanded from "./icons/folderNamesExpanded";
 export default {
@@ -11,7 +10,6 @@ export default {
   rootFolderExpanded: "_root_folder_open",
   fileExtensions,
   fileNames,
-  languageIds,
   folderNames,
   folderNamesExpanded,
 };
