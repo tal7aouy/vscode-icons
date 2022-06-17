@@ -84,3 +84,8 @@ add new icons
 
 - add storage icons
 - update & sort icons
+# 3.3.0
+
+- add jwt icons
+- add auto
+- update & add new features
