@@ -421,6 +421,7 @@ export default {
   ".phpunit-watcher.yml": "_f_phpunit",
   "phpunit-watcher.yml": "_f_phpunit",
   "phpunit-watcher.yml.dist": "_f_phpunit",
+    ".htaccess": "_f_xml",
   "playwright.config.js": "_f_playwright",
   "playwright.config.ts": "_f_playwright",
   ".pnpmfile.cjs": "_f_pnpm",
