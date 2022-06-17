@@ -587,6 +587,7 @@ export default {
   rtf: "_f_word",
   xaml: "_f_xaml",
   xml: "_f_xml",
+  ".htaccess": "_f_xml",
   plist: "_f_xml",
   xsd: "_f_xml",
   dtd: "_f_xml",
