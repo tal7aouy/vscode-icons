@@ -305,6 +305,7 @@ export default {
   jobs: "_fd_folder_job_open",
   json: "_fd_folder_json_open",
   jsons: "_fd_folder_json_open",
+  jwt: "_fd_folder_jwt_open",
   key: "_fd_folder_keys_open",
   keys: "_fd_folder_keys_open",
   token: "_fd_folder_keys_open",

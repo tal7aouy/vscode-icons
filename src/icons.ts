@@ -198,6 +198,8 @@ const icons: Icon = {
   ...folderIcon("folder_meta_open"),
   ...folderIcon("folder_json"),
   ...folderIcon("folder_json_open"),
+    ...folderIcon("folder_jwt"),
+  ...folderIcon("folder_jwt_open"),
   ...folderIcon("folder_gradle"),
   ...folderIcon("folder_gradle_open"),
   ...folderIcon("folder_terraform"),
