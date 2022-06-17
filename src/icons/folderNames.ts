@@ -329,6 +329,7 @@ export default {
   log: "_fd_folder_log",
   dmp: "_fd_folder_log",
   logs: "_fd_folder_log",
+  lua: "_fd_folder_lua",
   mail: "_fd_folder_mail",
   mails: "_fd_folder_mail",
   email: "_fd_folder_mail",

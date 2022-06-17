@@ -108,6 +108,8 @@ const icons: Icon = {
   ...folderIcon("folder_javascript_open"),
   ...folderIcon("folder_log"),
   ...folderIcon("folder_log_open"),
+   ...folderIcon("folder_lua"),
+  ...folderIcon("folder_lua_open"),
   ...folderIcon("folder_include"),
   ...folderIcon("folder_include_open"),
   ...folderIcon("folder_less"),
