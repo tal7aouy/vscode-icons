@@ -113,6 +113,8 @@ export default {
   services: "_fd_folder_controller",
   provider: "_fd_folder_controller",
   providers: "_fd_folder_controller",
+  reducer: "_fd_folder_controller",
+  reducers: "_fd_folder_controller",
   core: "_fd_folder_core",
   coverage: "_fd_folder_coverage",
   ".nyc-output": "_fd_folder_coverage",
