@@ -460,6 +460,7 @@ const icons: Icon = {
   ...icon("kivy"),
   ...icon("kotlin"),
   ...icon("authors"),
+  ...icon("auto"),
   ...icon("django"),
   ...icon("word"),
   ...icon("windicss"),
