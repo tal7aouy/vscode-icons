@@ -426,6 +426,7 @@ export default {
   "routes.jsx": "_f_routing",
   rb: "_f_ruby",
   erb: "_f_ruby",
+  rake: "_f_ruby",
   rs: "_f_rust",
   san: "_f_san",
   sas: "_f_sas",
