@@ -99,6 +99,7 @@ export default {
   context: "_fd_folder_context",
   contexts: "_fd_folder_context",
   store: "_fd_folder_context",
+  stores: "_fd_folder_context",
   contract: "_fd_folder_contract",
   contracts: "_fd_folder_contract",
   ".contract": "_fd_folder_contract",
