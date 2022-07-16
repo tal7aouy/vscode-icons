@@ -89,3 +89,6 @@ add new icons
 - add jwt icons
 - add auto
 - update & add new features
+# 3.4.0
+- add store plural
+- add new icons and folders
