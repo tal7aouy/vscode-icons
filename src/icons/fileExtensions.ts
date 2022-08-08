@@ -218,6 +218,7 @@ export default {
   gradle: "_f_gradle",
   gr: "_f_grain",
   graphcool: "_f_graphcool",
+  graphql: "_f_graphql",
   gql: "_f_graphql",
   groovy: "_f_groovy",
   h: "_f_h",
