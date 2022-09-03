@@ -144,6 +144,8 @@ export default {
   repositories: "_fd_folder_database_open",
   debug: "_fd_folder_debug_open",
   debugging: "_fd_folder_debug_open",
+  decorator: "_fd_folder_decorators_open",
+  decorators: "_fd_folder_decorators_open",
   delta: "_fd_folder_delta_open",
   deltas: "_fd_folder_delta_open",
   changes: "_fd_folder_delta_open",

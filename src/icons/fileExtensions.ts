@@ -321,6 +321,7 @@ export default {
   smv: "_f_matlab",
   xvc: "_f_matlab",
   mdx: "_f_mdx",
+  svx: "_f_mdsvex",
   merlin: "_f_merlin",
   wrap: "_f_meson",
   mcfunction: "_f_minecraft",
