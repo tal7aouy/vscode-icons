@@ -621,4 +621,5 @@ export default {
   bz2: "_f_zip",
   zipx: "_f_zip",
   tgz: "_f_zip",
+  lua: "_f_lua",
 };
