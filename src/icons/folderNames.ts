@@ -371,6 +371,8 @@ export default {
   concepts: "_fd_folder_mock",
   sketch: "_fd_folder_mock",
   sketches: "_fd_folder_mock",
+  modal: "_fd_folder_modal",
+  modals: "_fd_folder_modal",
   model: "_fd_folder_model",
   models: "_fd_folder_model",
   schemas: "_fd_folder_model",
