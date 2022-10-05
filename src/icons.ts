@@ -180,6 +180,8 @@ const icons: Icon = {
   ...folderIcon("folder_php_open"),
   ...folderIcon("folder_queue"),
   ...folderIcon("folder_queue_open"),
+  ...folderIcon("folder_repository"),
+  ...folderIcon("folder_repository_open"),
   ...folderIcon("folder_package"),
   ...folderIcon("folder_package_open"),
   ...folderIcon("folder_phpmailer"),
