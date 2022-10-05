@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/naming-convention */
 export default {
   admin: "_fd_folder_admin_open",
   android: "_fd_folder_android_open",
@@ -120,7 +121,6 @@ export default {
   core: "_fd_folder_core_open",
   coverage: "_fd_folder_coverage_open",
   ".nyc-output": "_fd_folder_coverage_open",
-  ".nyc_output": "_fd_folder_coverage_open",
   e2e: "_fd_folder_coverage_open",
   it: "_fd_folder_coverage_open",
   "integration-test": "_fd_folder_coverage_open",
