@@ -139,7 +139,6 @@ export default {
   database: "_fd_folder_database_open",
   sql: "_fd_folder_database_open",
   data: "_fd_folder_database_open",
-  repo: "_fd_folder_database_open",
   debug: "_fd_folder_debug_open",
   debugging: "_fd_folder_debug_open",
   decorator: "_fd_folder_decorators_open",
