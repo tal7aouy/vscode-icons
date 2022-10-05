@@ -92,3 +92,9 @@ add new icons
 # 3.4.0
 - add store plural
 - add new icons and folders
+
+# 3.6.0
+- add moon(folder, file)
+- add modal (folder)
+- add repository (folder)
+- update drone (file icon)
