@@ -383,6 +383,8 @@ export default {
   modernizrrc: "_f_modernizr",
   ".modernizr.js": "_f_modernizr",
   ".modernizrrc.json": "_f_modernizr",
+  "moon.yml": "_f_moon",
+  "template.yml": "_f_moon",
   ".nest-cli.json": "_f_nestjs",
   "nest-cli.json": "_f_nestjs",
   "nestconfig.json": "_f_nestjs",

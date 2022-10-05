@@ -377,6 +377,7 @@ export default {
   schema: "_fd_folder_model",
   class: "_fd_folder_model",
   classes: "_fd_folder_model",
+  ".moon": "_fd_folder_moon",
   ".next": "_fd_folder_next",
   node_modules: "_fd_folder_node",
   ".nuxt": "_fd_folder_nuxt",
