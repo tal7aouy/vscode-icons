@@ -166,6 +166,8 @@ export default {
   djt: "_f_django",
   dockerignore: "_f_docker",
   dockerfile: "_f_docker",
+  "docker-compose.yml": "_f_docker",
+  "docker-compose.yaml": "_f_docker",
   txt: "_f_document",
   def: "_f_dotjs",
   dot: "_f_dotjs",
