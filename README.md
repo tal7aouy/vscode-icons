@@ -41,6 +41,6 @@ fs.readdir('.', (err, files) => {
 <h2 align="center">Contributors</h2>
 </p>
 
-| ***@titi_2115*** |
-| - |
-| ![image](https://avatars.githubusercontent.com/u/73474137?v=4) |
+| ***@titi_2115*** | ***@tal7aouy***
+| - | - |
+| ![image](https://avatars.githubusercontent.com/u/73474137?v=4) | ![image](https://avatars.githubusercontent.com/u/79597452?v=4)
