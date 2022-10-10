@@ -1,9 +1,9 @@
 {
-  "name": "icons",
-  "displayName": "Icons",
-  "description": "Icons for Visual Studio Code.",
-  "version": "3.6.0",
-  "publisher": "tal7aouy",
+  "name": "Light-icons",
+  "displayName": "Light icons",
+  "description": "Light icons for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "4Themes",
   "main": "./out/extension.js",
   "engines": {
     "vscode": "^1.63.0"
@@ -37,22 +37,20 @@
   "keywords": [
     "icons",
     "theme",
+    "light",
+    "light-icons",
     "icon-theme",
     "others"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tal7aouy/vscode-icons.git"
-  },
-  "author": {
-    "email": "talhaouycoding@gmail.com",
-    "name": "Mhammed Talhaouy"
+    "url": "https://github.com/4-themes/light-vscode-icons"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tal7aouy/vscode-icons/issues"
+    "url": "https://github.com/4-themes/light-vscode-icons/issues"
   },
-  "homepage": "https://github.com/tal7aouy/vscode-icons#readme",
+  "homepage": "https://github.com/4-themes/light-vscode-icons#readme",
   "devDependencies": {
     "@types/node": "^14.18.9",
     "@types/vscode": "^1.63.0",
