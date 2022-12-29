@@ -10,10 +10,10 @@
 <h4 align="center">Get the Icons into your VS Code.</h4>
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons"><img src="https://vsmarketplacebadges.dev/version-short/tal7aouy.icons.svg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=VERSION&style=rounded" alt="Version"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons"><img src="https://vsmarketplacebadges.dev/rating-short/tal7aouy.icons.svg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Rating&style=rounded" alt="Rating"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons"><img src="https://vsmarketplacebadges.dev/installs-short/tal7aouy.icons.svg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Installs&style=rounded" alt="Installs"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons"><img src="https://vsmarketplacebadges.dev/downloads-short/tal7aouy.icons.svg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Downloads&style=rounded" alt="Downloads"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons"><img src="https://vsmarketplacebadges.dev/version-short/tal7aouy.icons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=VERSION" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons"><img src="https://vsmarketplacebadges.dev/rating-short/tal7aouy.icons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Rating" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons"><img src="https://vsmarketplacebadges.dev/installs-short/tal7aouy.icons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Installs" alt="Installs"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons"><img src="https://vsmarketplacebadges.dev/downloads-short/tal7aouy.icons.jpg?style=for-the-badge&colorA=252526&colorB=1B9AAA&label=Downloads" alt="Downloads"></a>
 </p>
 
 ## File icons
