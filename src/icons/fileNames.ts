@@ -157,6 +157,7 @@ export default {
   "cypress.env.json": "_f_cypress",
   "dependabot.yml": "_f_dependabot",
   "deno.json": "_f_deno",
+  "deno.jsonc": "_f_deno",
   "docker-compose.yml": "_f_docker",
   "docker-compose.ci-build.yml": "_f_docker",
   "docker-compose.override.yml": "_f_docker",
