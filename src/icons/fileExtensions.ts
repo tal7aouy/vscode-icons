@@ -268,6 +268,7 @@ export default {
   j2: "_f_jinja",
   "jinja-html": "_f_jinja",
   js: "_f_js",
+  cjs: "_f_js",
   jsconfig: "_f_jsconfig",
   esx: "_f_js",
   mjs: "_f_js",
