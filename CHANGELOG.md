@@ -84,17 +84,26 @@ add new icons
 
 - add storage icons
 - update & sort icons
+
 # 3.3.0
 
 - add jwt icons
 - add auto
 - update & add new features
+
 # 3.4.0
+
 - add store plural
 - add new icons and folders
 
 # 3.6.0
+
 - add moon(folder, file)
 - add modal (folder)
 - add repository (folder)
 - update drone (file icon)
+
+# 3.6.1
+
+- fixed (deno.jsonc, cjs)
+- add new icons
