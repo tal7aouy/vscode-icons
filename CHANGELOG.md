@@ -107,3 +107,8 @@ add new icons
 
 - fixed (deno.jsonc, cjs)
 - add new icons
+
+# 3.6.2
+
+- add pinia icon
+- add anothers
