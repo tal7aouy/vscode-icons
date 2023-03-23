@@ -225,6 +225,7 @@ export default {
   gens: "_fd_folder_generator_open",
   auto: "_fd_folder_generator_open",
   ".git": "_fd_folder_git_open",
+  "git": "_fd_folder_git_open",
   patches: "_fd_folder_git_open",
   githooks: "_fd_folder_git_open",
   ".githooks": "_fd_folder_git_open",
