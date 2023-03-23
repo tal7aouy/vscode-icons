@@ -105,6 +105,8 @@ export default {
   ".devcontainer": "_fd_folder_container",
   content: "_fd_folder_content",
   contents: "_fd_folder_content",
+  feature: "_fd_folder_content",
+  features: "_fd_folder_content",
   context: "_fd_folder_context",
   contexts: "_fd_folder_context",
   store: "_fd_folder_pinia_store",
