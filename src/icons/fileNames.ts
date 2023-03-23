@@ -399,6 +399,7 @@ export default {
   ".modernizrrc.json": "_f_modernizr",
   "moon.yml": "_f_moon",
   "template.yml": "_f_moon",
+  "_test.go": "_f_test-go",
   ".nest-cli.json": "_f_nestjs",
   "nest-cli.json": "_f_nestjs",
   "nestconfig.json": "_f_nestjs",

@@ -383,6 +383,7 @@ const icons: Icon = {
   ...icon("asciidoc"),
   ...icon("firebase"),
   ...icon("terraform"),
+  ...icon("test-go"),
   ...icon("ember"),
   ...icon("blink"),
   ...icon("ballerina"),
