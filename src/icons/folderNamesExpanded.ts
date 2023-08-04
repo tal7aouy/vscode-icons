@@ -173,6 +173,8 @@ export default {
   downloads: "_fd_folder_download_open",
   dump: "_fd_folder_dump_open",
   dumps: "_fd_folder_dump_open",
+  directives: "_fd_folder_directives_open",
+  ".directives": "_fd_folder_directives_open",
   elixir: "_fd_folder_elixir_open",
   ".elixir_ls": "_fd_folder_elixir_open",
   ".env": "_fd_folder_environment_open",

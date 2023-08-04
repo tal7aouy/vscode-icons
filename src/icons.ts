@@ -60,6 +60,8 @@ const icons: Icon = {
   ...folderIcon("folder_css_open"),
   ...folderIcon("folder_dist"),
   ...folderIcon("folder_dist_open"),
+  ...folderIcon("folder_directives"),
+  ...folderIcon("folder_directives_open"),
   ...folderIcon("folder_modal"),
   ...folderIcon("folder_modal_open"),
   ...folderIcon("folder_model"),
