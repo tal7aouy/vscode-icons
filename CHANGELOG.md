@@ -112,3 +112,7 @@ add new icons
 
 - add pinia icon
 - add anothers
+# 3.7.0
+
+- add robot folder
+- add directive folder
