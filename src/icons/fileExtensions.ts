@@ -169,6 +169,8 @@ export default {
   dockerfile: "_f_docker",
   "docker-compose.yml": "_f_docker",
   "docker-compose.yaml": "_f_docker",
+  "compose.yaml": "_f_docker",
+  "compose.yml": "_f_docker",
   txt: "_f_document",
   def: "_f_dotjs",
   dot: "_f_dotjs",
