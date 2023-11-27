@@ -398,6 +398,7 @@ const icons: Icon = {
   ...icon("bower"),
   ...icon("brainfuck"),
   ...icon("buck"),
+  ...icon("bun"),
   ...icon("bucklescript"),
   ...icon("buildkite"),
   ...icon("cmake"),
@@ -750,6 +751,7 @@ const icons: Icon = {
   ...icon("turborepo"),
   ...icon("steadybit"),
   ...icon("tobi"),
+  ...icon("puppeteer"),
 };
 
 export default icons;
