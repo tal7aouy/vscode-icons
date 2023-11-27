@@ -48,6 +48,7 @@ export default {
   apiblueprint: "_f_apiblueprint",
   applescript: "_f_applescript",
   ipa: "_f_applescript",
+  gs: "_f_apps-script",
   ino: "_f_arduino",
   ad: "_f_asciidoc",
   adoc: "_f_asciidoc",

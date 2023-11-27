@@ -383,6 +383,7 @@ const icons: Icon = {
   ...icon("advpl_ptm"),
   ...icon("advpl_tlpp"),
   ...icon("apiblueprint"),
+  ...icon("apps-script"),
   ...icon("appveyor"),
   ...icon("asciidoc"),
   ...icon("firebase"),
