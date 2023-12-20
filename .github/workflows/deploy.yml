@@ -30,6 +30,6 @@ jobs:
       - name: Deploy extension
         run: |
           vsce package
-          vsce publish -p ${{ secrets.VSCE_TOKEN }}
+          vsce publish -p $VSCE_TOKEN
         env:
           VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
