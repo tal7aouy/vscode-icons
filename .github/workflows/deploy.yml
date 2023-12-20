@@ -27,6 +27,12 @@ jobs:
       - name: Build extension
         run: npm run build
 
+      - name: Debug environment variables
+        run: |
+          echo "VSCE_TOKEN: $VSCE_TOKEN"
+        env:
+          VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
+
       - name: Deploy extension
         run: |
           vsce package
