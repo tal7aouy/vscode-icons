@@ -1,0 +1,32 @@
+name: Deploy VSCode Extension
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '16'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Build extension
+      run: npm run build
+
+    - name: Deploy extension
+      run: |
+        vsce package
+        vsce publish -p ${{ secrets.VSCE_TOKEN }}
+      env:
+        VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
