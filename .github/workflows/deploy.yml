@@ -29,7 +29,7 @@ jobs:
 
       - name: Debug environment variables
         run: |
-          echo "VSCE_TOKEN: $VSCE_TOKEN"
+          echo "VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}"
         env:
           VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
 
