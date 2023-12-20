@@ -112,7 +112,13 @@ add new icons
 
 - add pinia icon
 - add anothers
+
 # 3.7.0
 
 - add robot folder
 - add directive folder
+
+# 3.8.0
+
+- add many icons
+- update angular icons 
