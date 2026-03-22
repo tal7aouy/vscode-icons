@@ -1,5 +1,17 @@
 # Icons
 
+> ## ⚠️ This extension is no longer actively maintained
+>
+> This repository and the original **Icons** extension are no longer receiving updates.
+>
+> A maintained version is available as **[Icons (Maintained)](https://marketplace.visualstudio.com/items?itemName=yusifaliyevpro.vscicons)** on the VS Code Marketplace, with active development, bug fixes, and new icons.
+>
+> **New repo:** [github.com/yusifaliyevpro/vscode-icons](https://github.com/yusifaliyevpro/vscode-icons)
+>
+> **Contributions, feature requests, and bug reports** should be directed to the [new repository](https://github.com/yusifaliyevpro/vscode-icons).
+
+---
+
 ## Installation
 
 1. Open the **Extensions** sidebar in Visual Studio Code.
@@ -16,12 +28,12 @@
 
 After installation and activation:
 
-* Go to **Settings**
+- Go to **Settings**
+  - Windows: `File → Preferences`
+  - macOS: `Code → Preferences`
 
-  * Windows: `File → Preferences`
-  * macOS: `Code → Preferences`
-* Choose **File Icon Theme**
-* Select `Icons`
+- Choose **File Icon Theme**
+- Select `Icons`
 
 ---
 
@@ -33,7 +45,7 @@ If you want additional icons, you can **open a new issue** to request which exte
 
 ## Icon Sources
 
-* **Material Design Icons** – official icons
+- **Material Design Icons** – official icons
 
 ---
 
